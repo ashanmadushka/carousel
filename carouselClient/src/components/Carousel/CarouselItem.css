@@ -1,0 +1,18 @@
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    width: 500px;
+    height: 500px;
+}
+  
+/* Bottom right text */
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: transparent;
+    color: black;
+    padding-left: 20px;
+    padding-right: 500px;
+    padding-bottom: 250px;
+}
